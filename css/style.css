@@ -1,3 +1,21 @@
 body {
     background-image: url(../images/6.jpg);
 }
+
+#header {
+    text-shadow: 0px 1px blue, 2px 0px red;
+}
+
+p, ul, li, div {
+    color: white;
+}
+
+#section-one{
+
+}
+#section-two{
+
+}
+#section-three{
+
+}
