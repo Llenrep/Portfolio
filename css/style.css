@@ -26,3 +26,11 @@ p, ul, li, div {
     bottom: 30px;
     /* border: 0.5px solid black; */
 }
+
+@media screen and (max-width: 750px){
+    #Resume{
+        bottom: 0px;
+        top: 0px
+    }
+
+}
